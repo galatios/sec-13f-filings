@@ -163,3 +163,9 @@ There is no logged in experience, which makes it easier to use edge caching via 
 ## Questions/issues/contact
 
 todd@toddwschneider.com, or open a GitHub issue
+
+To run this application, set the SEC_USER_AGENT environment variable to "babankltd babankltd@gmail.com".
+
+## Deployment Attempts
+
+Attempts were made to deploy the application, including setting the `SEC_USER_AGENT` environment variable, installing Ruby and JavaScript dependencies, and setting up the database. However, these attempts failed because the necessary tools (Ruby, Node.js, Yarn, PostgreSQL) were not available in the environment and could not be installed.
